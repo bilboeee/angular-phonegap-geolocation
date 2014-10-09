@@ -7,5 +7,8 @@ Bower Component for using AngularJS with [PhoneGap's Geolocation API](http://doc
 3. Include the `geolocation.js` script, and this script's dependencies are included in your app.
 4. Add `btford.phonegap.geolocation` as a module dependency to your app.
 
+## Changelog
+0.0.2 - Added missing methods
+
 ## License
 MIT
